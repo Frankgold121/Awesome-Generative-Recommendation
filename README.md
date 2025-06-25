@@ -69,6 +69,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**EGA-V2: An End-to-end Generative Framework for Industrial Advertising**](https://arxiv.org/abs/2505.17549), *2025.05*, ![](https://img.shields.io/badge/EGA_V2-blue) ![](https://img.shields.io/badge/Meituan-orange)
 
 
+- [**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**](https://arxiv.org/abs/2505.16752), *2025.05*, ![](https://img.shields.io/badge/DFGR-blue) ![](https://img.shields.io/badge/Meituan-orange)
+
+
 - [**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**](https://arxiv.org/abs/2506.03699), *2025.06*, ![](https://img.shields.io/badge/GPSD-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 
 
