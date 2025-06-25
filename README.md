@@ -72,9 +72,6 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**](https://arxiv.org/abs/2506.03699), *2025.06*, ![](https://img.shields.io/badge/GPSD-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 
 
-- [**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**](https://arxiv.org/abs/2506.03699), *2025.06*, ![](https://img.shields.io/badge/GPSD-blue) ![](https://img.shields.io/badge/Alibaba-orange)
-
-
 - [**OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion**](https://arxiv.org/abs/2506.06913), *2025.06*, ![](https://img.shields.io/badge/OneSug-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
