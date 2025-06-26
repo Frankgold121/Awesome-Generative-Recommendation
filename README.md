@@ -36,6 +36,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**](https://arxiv.org/abs/2402.17152), *2024.02*, ![](https://img.shields.io/badge/HSTU-blue) ![](https://img.shields.io/badge/Meta-orange)
 
 
+- [**LEARN: Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**](https://arxiv.org/abs/2405.03988), *2024.05*, ![](https://img.shields.io/badge/LEARN-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+
+
 - [**HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling**](https://arxiv.org/abs/2409.12740), *2024.09*, ![](https://img.shields.io/badge/HLLM-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 
 
