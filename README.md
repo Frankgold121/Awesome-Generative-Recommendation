@@ -28,6 +28,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Recommender Systems with Generative Retrieval**](https://proceedings.neurips.cc/paper_files/paper/2023/file/20dcab0f14046a5c6b02b61da9f13229-Paper-Conference.pdf), *2023.11*, ![](https://img.shields.io/badge/TIGER-blue) ![](https://img.shields.io/badge/DeepMind-orange)
 
 
+- [**Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation**](https://arxiv.org/abs/2311.09049), *2023.11*, ![](https://img.shields.io/badge/LC_Rec-blue) ![](https://img.shields.io/badge/Tencent-orange)
 
 
 ## 2024
